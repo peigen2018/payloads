@@ -1,11 +1,8 @@
-package org.pg.demo;
-
-import burp.IBurpExtender;
-import burp.IBurpExtenderCallbacks;
+package burp;
 
 import java.io.PrintWriter;
 
-public class Demo implements IBurpExtender {
+public class BurpExtender implements IBurpExtender {
 
 
     @Override
