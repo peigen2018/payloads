@@ -1,3 +1,5 @@
+package org.pg.demo;
+
 import burp.IBurpExtender;
 import burp.IBurpExtenderCallbacks;
 
